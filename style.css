@@ -1,0 +1,30 @@
+body{
+    background-color: maroon;
+}
+.cherry{
+    color: white;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#div_1{
+    margin-left: 150px;
+}
+#div_2{
+    float: right;
+    margin-right: 200px;
+    margin-top: -420px;
+}
+
+.para{
+    color: white;
+    font-size: 20px;
+}
+.btn{
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-left:40px;
+}
